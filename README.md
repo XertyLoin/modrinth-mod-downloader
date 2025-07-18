@@ -37,7 +37,7 @@ A GUI application to download files from a Modrinth `.mrpack` file, with an opti
 ```
 modrinth-mod-downloader/
 ├── src/
-│   ├── modrinth_mod_downloader.py
+│   ├── main.py
 ├── requirements.txt
 ├── .gitignore
 ├── README.md
